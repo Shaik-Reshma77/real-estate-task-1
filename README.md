@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](reshmabegumshaik90gmail.com)
+Your Name - [your.email@example.com]
 
 Project Link: [https://github.com/Shaik-Reshma77/real-estate-task-1](https://github.com/Shaik-Reshma77/real-estate-task-1)
